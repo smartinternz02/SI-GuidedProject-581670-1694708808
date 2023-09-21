@@ -1,3 +1,4 @@
+Assignment-3
 # SI-GuidedProject-581670-1694708808
 Clustering the data and performing classification algorithms
 1. Download the dataset: Dataset
@@ -15,3 +16,11 @@ Clustering the data and performing classification algorithms
 10. Scaling the data
 11. Split the data into training and testing
 12.check the training and testing data shape.
+
+Assigment-4
+Task:
+• Load the Dataset
+• Data preprocessing including visualization
+• Machine Learning Model building 
+• Evaluate the model
+• Test with random observation
